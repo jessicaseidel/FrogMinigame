@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 6292b8cb929c4e4429f08e7627fc2abb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back
+    100002: Frog
+    100004: //RootNode
+    100006: Knochen
+    100008: leftArm
+    100010: leftArm_end
+    100012: leftFoot
+    100014: leftFoot_end
+    100016: leftHip
+    100018: leftLeg
+    100020: leftLeg.001
+    100022: leftLeg.002
+    100024: leftLeg.002_end
+    100026: leftLeg.003
+    100028: leftLeg.003_end
+    100030: leftShoulder
+    100032: leftShoulder.001
+    100034: leftShoulder.002
+    100036: leftShoulder.002_end
+    100038: leftShoulder_end
+    100040: Neck
+    100042: Neck_end
+    100044: rightArm
+    100046: rightArm_end
+    100048: rightFoot
+    100050: rightFoot_end
+    100052: rightHip
+    100054: rightHip.001
+    100056: rightHip.001_end
+    100058: rightLeg
+    100060: rightLeg.001
+    100062: rightLeg.002
+    100064: rightLeg.002_end
+    100066: rightLeg.003
+    100068: rightLeg.003_end
+    100070: rightShoulder
+    100072: rightShoulder.001
+    100074: rightShoulder.002
+    100076: rightShoulder.002_end
+    100078: rightShoulder_end
+    100080: Root
+    400000: Back
+    400002: Frog
+    400004: //RootNode
+    400006: Knochen
+    400008: leftArm
+    400010: leftArm_end
+    400012: leftFoot
+    400014: leftFoot_end
+    400016: leftHip
+    400018: leftLeg
+    400020: leftLeg.001
+    400022: leftLeg.002
+    400024: leftLeg.002_end
+    400026: leftLeg.003
+    400028: leftLeg.003_end
+    400030: leftShoulder
+    400032: leftShoulder.001
+    400034: leftShoulder.002
+    400036: leftShoulder.002_end
+    400038: leftShoulder_end
+    400040: Neck
+    400042: Neck_end
+    400044: rightArm
+    400046: rightArm_end
+    400048: rightFoot
+    400050: rightFoot_end
+    400052: rightHip
+    400054: rightHip.001
+    400056: rightHip.001_end
+    400058: rightLeg
+    400060: rightLeg.001
+    400062: rightLeg.002
+    400064: rightLeg.002_end
+    400066: rightLeg.003
+    400068: rightLeg.003_end
+    400070: rightShoulder
+    400072: rightShoulder.001
+    400074: rightShoulder.002
+    400076: rightShoulder.002_end
+    400078: rightShoulder_end
+    400080: Root
+    2100000: Material.001
+    2100002: Material.002
+    2100004: Material.003
+    2100006: Material.004
+    4300000: Frog
+    7400000: Knochen|Action
+    7400002: Knochen|Action.001
+    9500000: //RootNode
+    13700000: Frog
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
